@@ -1,4 +1,4 @@
-# Phase 2 documentation
+# Database_Design
 
 **Website:** http://cmsc508.com/202310/team01/login.php
 
